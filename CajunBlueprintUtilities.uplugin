@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Cajun Blueprint Utilities",
+	"Description": "Helpers",
+	"Category": "Cajun Plugins",
+	"CreatedBy": "Nicholas St. Germain",
+	"CreatedByURL": "https://cajun.pro",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": true,
+	"EditorCustomVirtualPath": "CajunPlugins",
+	"Modules": [
+		{
+			"Name": "CajunBlueprintUtilities",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "CajunBlueprintUtilitiesDeveloper",
+			"Type": "UncookedOnly",
+			"LoadingPhase": "Default"
+		}
+	]
+}
